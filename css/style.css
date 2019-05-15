@@ -3,7 +3,7 @@
 /* link the web font used for the level 1 heading here */
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:700');
 
-a {
+#wrapper a {
 	font: bold 80px "Libre Baskerville";
 	color: #98ADA6;
 }
